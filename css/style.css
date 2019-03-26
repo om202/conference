@@ -205,7 +205,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #000;
+  background: white;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -238,14 +238,14 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav ul li.has-dropdown .dropdown li a {
   padding: 2px 0;
   display: block;
-  color: #999999;
+  color: #252525;
   line-height: 1.2;
   text-transform: none;
   font-size: 13px;
   letter-spacing: 0;
 }
 .fh5co-nav ul li.has-dropdown .dropdown li a:hover {
-  color: #fff;
+  color: gray;
 }
 .fh5co-nav ul li.has-dropdown .dropdown li a:after {
   display: none !important;
@@ -868,7 +868,7 @@ input[type="text"] {
 
 #fh5co-footer {
   margin-top: 20px !important;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 25, 58, 0.7);
   color: rgba(255, 255, 255, 0.7) !important;
 }
 #fh5co-footer a {

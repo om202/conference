@@ -1,0 +1,109 @@
+	<div id="fh5co-intro">
+				<div class="row animate-box">
+						<h2 class="text-center">Call for paper</h2>
+					<div class="col-md-12 col-md-offset-0">
+						<span>TDNIS-2019 invites original, technically sound, high-quality research papers proposing novel solutions addressing the problems related to Data Science
+								and analytics. Major topics of interest to the conference include, but are not limited to:</span>
+					</div>
+					<div class="col-md-12 col-md-offset-0">
+							<div class="col-md-6 col-md-offset-0">
+								<ul>
+									<li>Analytics as a Service</li>
+									<li>Classification and regression</li>
+									<li>parallel and distributed learning</li>
+									<li>semi and unsupervised learning, reinforcement learning</li>
+									<li>Data Mining, graph mining and Analytics</li>
+									<li>Feature engineering</li>
+									<li>Deep learning</li>
+									<li>Bayesian methods</li>
+									<li>Time series analysis, optimization, graphical models</li>
+									<li>Text analytics and NLP</li>
+									<li>Information retrieval, knowledge representation, planning and reasoning</li>
+									<li>Crowdsourcing, Embedded and Mobile Databases</li>
+									<li>Real-time Databases, Sensors and IoT, Stream Databases</li>
+									<li>Streaming Data Analytics </li>
+								</ul>
+							</div>
+							<div class="col-md-6 col-md-offset-0">
+								<ul>
+									<li>Analytics as a Service</li>
+									<li>Classification and regression</li>
+									<li>parallel and distributed learning</li>
+									<li>semi and unsupervised learning, reinforcement learning</li>
+									<li>Data Mining, graph mining and Analytics</li>
+									<li>Feature engineering</li>
+									<li>Deep learning</li>
+									<li>Bayesian methods</li>
+									<li>Time series analysis, optimization, graphical models</li>
+									<li>Text analytics and NLP</li>
+									<li>Information retrieval, knowledge representation, planning and reasoning</li>
+									<li>Crowdsourcing, Embedded and Mobile Databases</li>
+									<li>Real-time Databases, Sensors and IoT, Stream Databases</li>
+									<li>Streaming Data Analytics </li>
+								</ul>
+							</div>
+							
+						</div>
+				</div>
+			</div>
+
+
+
+
+
+
+
+            		<div id="fh5co-bible-verse">
+			<div class="overlay"></div>
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1">
+					<h2 class="text-center" style="color:white;">Important Speakers</h2>
+					<div class="row animate-box">
+						<div class="owl-carousel owl-carousel-fullwidth">
+							<div class="item">
+								<div class="bible-verse-slide active text-center">
+									<center>
+											<br>
+											<img class="img-circle" src="images/img-1.jpg" style="width: 120px;"/>
+											<br> 
+											<span style="font-size: x-large;">Lorem Epsum</span>
+											<br>
+											Introduction of the person
+											<br><br>
+											<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://link.springer.com/conference/dnis">About<i class="icon-arrow-right3"></i></a></p>
+									</center>
+								</div>
+							</div>
+							<div class="item">
+								<div class="bible-verse-slide active text-center">
+										<center>
+												<br>
+												<img class="img-circle" src="images/sermon-2.jpg" style="width: 120px;"/>
+												<br> 
+												<span style="font-size: x-large;">Lorem Epsum</span>
+												<br>
+												Introduction of the person
+												<br><br>
+												<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://link.springer.com/conference/dnis">About<i class="icon-arrow-right3"></i></a></p>
+										</center>
+								</div>
+							</div>
+							<div class="item">
+								<div class="bible-verse-slide active text-center">
+										<center>
+												<br>
+												<img class="img-circle" src="images/img-1.jpg" style="width: 120px;"/>
+												<br> 
+												<span style="font-size: x-large;">Lorem Epsum</span>
+												<br>
+												Introduction of the person
+												<br><br>
+												<p><a class="btn btn-primary btn-demo popup-vimeo" href="https://link.springer.com/conference/dnis">About<i class="icon-arrow-right3"></i></a></p>
+										</center>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
